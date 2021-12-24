@@ -5,5 +5,7 @@ public class FirstClass {
         System.out.println("First line");
 
         System.out.println("Second Line");
+
+        System.out.println("Third Line");
     }
 }
